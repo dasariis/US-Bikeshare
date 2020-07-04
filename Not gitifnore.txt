@@ -1,0 +1,3 @@
+Not a git ignore file.
+
+Testing commit with a git ignore file and normal file.
